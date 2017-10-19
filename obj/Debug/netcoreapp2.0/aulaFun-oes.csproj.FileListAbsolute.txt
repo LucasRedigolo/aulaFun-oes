@@ -1,0 +1,10 @@
+c:\Users\FIC\Desktop\aulaFun-oes\bin\Debug\netcoreapp2.0\aulaFun-oes.deps.json
+c:\Users\FIC\Desktop\aulaFun-oes\bin\Debug\netcoreapp2.0\aulaFun-oes.runtimeconfig.json
+c:\Users\FIC\Desktop\aulaFun-oes\bin\Debug\netcoreapp2.0\aulaFun-oes.runtimeconfig.dev.json
+c:\Users\FIC\Desktop\aulaFun-oes\bin\Debug\netcoreapp2.0\aulaFun-oes.dll
+c:\Users\FIC\Desktop\aulaFun-oes\bin\Debug\netcoreapp2.0\aulaFun-oes.pdb
+c:\Users\FIC\Desktop\aulaFun-oes\obj\Debug\netcoreapp2.0\aulaFun-oes.csproj.CoreCompileInputs.cache
+c:\Users\FIC\Desktop\aulaFun-oes\obj\Debug\netcoreapp2.0\aulaFun-oes.AssemblyInfoInputs.cache
+c:\Users\FIC\Desktop\aulaFun-oes\obj\Debug\netcoreapp2.0\aulaFun-oes.AssemblyInfo.cs
+c:\Users\FIC\Desktop\aulaFun-oes\obj\Debug\netcoreapp2.0\aulaFun-oes.dll
+c:\Users\FIC\Desktop\aulaFun-oes\obj\Debug\netcoreapp2.0\aulaFun-oes.pdb
