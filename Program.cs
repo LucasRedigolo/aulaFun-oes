@@ -44,14 +44,25 @@ namespace aulaFun_oes
 
            }
            
-           catch(Exception ex)
+           catch(ArithmeticException aex) //Exception é para mostrar erros dependendo do que acontecer (usado junto do Catch)
            
            {
-               System.Console.WriteLine(ex.Data);
-               System.Console.WriteLine(ex.Message); // mostra o erro para o usuario
-
+               System.Console.WriteLine("Ocorreu um erro aritmético");
+               System.Console.WriteLine(aex.Message); // mostra o erro para o usuario
                return int.MinValue;
            }
+
+           catch (Exception ex)
+            {
+                System.Console.WriteLine(ex.Message);
+                return int.MinValue;
+            }
+
+            finally {
+
+                System.Console.Write("Passou Finally");
+            }
+
         }
 
     }
